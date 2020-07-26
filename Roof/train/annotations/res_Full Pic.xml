@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ioclsmaller</folder>
+	<filename>res_Full Pic.jpg</filename>
+	<path>/home/cosprey/Downloads/iocldata/ioclsmaller-20200726T075031Z-001/ioclsmaller/res_Full Pic.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roof</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>56</ymin>
+			<xmax>381</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

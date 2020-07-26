@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ioclsmaller</folder>
+	<filename>res_IMG-20171212-WA0033.jpg</filename>
+	<path>/home/cosprey/Downloads/iocldata/ioclsmaller-20200726T075031Z-001/ioclsmaller/res_IMG-20171212-WA0033.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roof</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>1</ymin>
+			<xmax>360</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>
